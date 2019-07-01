@@ -10,6 +10,6 @@
 * [Security Automation Series — Part 1 OWASP ZAP — Jenkins Integration](https://medium.com/@gowsundar/security-automation-series-part-1-owasp-zap-jenkins-integration-50b091f29a36)
 * [알고리즘에 고통받는 취준생을 위한 안내서](https://www.notion.so/4e7f47700af341f4b649e4cad0c4fb30)]
 * [고퀄리티⚡️개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents/blob/master/README.md?sfns=mo)
-* [만들면서 배우는 아마존 버추얼 프라이빗 클라우드(Amazon VPC)][https://www.44bits.io/ko/post/understanding_aws_vpc?sfns=mo]
+* [만들면서 배우는 아마존 버추얼 프라이빗 클라우드(Amazon VPC)](https://www.44bits.io/ko/post/understanding_aws_vpc?sfns=mo)
 * [Subdomain TakeOver Best Tools](https://twitter.com/Alra3ees/status/1133938933241393153?s=19&sfns=mo)
 * [Hunt Unvalidated Url Redirects in wild](https://medium.com/@0ffensivemitthu/hunt-unvalidated-url-redirects-in-wild-c0bd876fd2f2)
