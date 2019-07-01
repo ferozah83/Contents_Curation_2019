@@ -1,0 +1,15 @@
+## June
+* [Getting Started in Bug Bounty Hunting](https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/?sfns=mo)
+* [왜 굳이 도커(컨테이너)를 써야 하나요?](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
+* [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2?utm_source=share&utm_medium=ios_app)
+* [WAF through the eyes of hackers](https://habr.com/en/company/dsec/blog/454592/?sfns=mo)
+* [Everything awesome about web-application firewalls (WAF)](https://github.com/0xinfection/awesome-waf)
+* [Bug Bounty Toolkit](https://medium.com/bugbountyhunting/bug-bounty-toolkit-aa36f4365f3f)
+* [Bug Bounty Radar](https://portswigger.net/daily-swig/bug-bounty-radar-june-2019)
+* [Bypassing SSRF Protection](https://medium.com/@vickieli/bypassing-ssrf-protection-e111ae70727b)
+* [Security Automation Series — Part 1 OWASP ZAP — Jenkins Integration](https://medium.com/@gowsundar/security-automation-series-part-1-owasp-zap-jenkins-integration-50b091f29a36)
+* [알고리즘에 고통받는 취준생을 위한 안내서](https://www.notion.so/4e7f47700af341f4b649e4cad0c4fb30)]
+* [고퀄리티⚡️개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents/blob/master/README.md?sfns=mo)
+* [만들면서 배우는 아마존 버추얼 프라이빗 클라우드(Amazon VPC)][https://www.44bits.io/ko/post/understanding_aws_vpc?sfns=mo]
+* [Subdomain TakeOver Best Tools](https://twitter.com/Alra3ees/status/1133938933241393153?s=19&sfns=mo)
+* [Hunt Unvalidated Url Redirects in wild](https://medium.com/@0ffensivemitthu/hunt-unvalidated-url-redirects-in-wild-c0bd876fd2f2)
