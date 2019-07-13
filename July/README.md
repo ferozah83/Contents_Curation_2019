@@ -5,3 +5,4 @@
 - [The Bug Bounty Bucket List](https://blog.intigriti.com/2019/07/01/the-bounty-bucket-list/)
 - [알고리즘이 필요한 '진짜' 이유에 대해서](https://brunch.co.kr/@chickenmoim/4)
 - [AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets)
+- [GitLab team-members share how to recognize burnout](https://about.gitlab.com/2018/03/08/preventing-burnout/)
